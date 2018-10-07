@@ -1,2 +1,2 @@
 # MATLAB1
-zadanie domowe
+zadanie domowe z przetwarzania sygnałow
